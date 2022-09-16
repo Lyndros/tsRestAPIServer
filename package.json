@@ -1,0 +1,25 @@
+{
+  "name": "tsrestapiserver",
+  "version": "1.0.0",
+  "description": "This is an example of REST API server implementation with typescript.",
+  "main": "source/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon source/server.ts",
+    "build": "rm -rf build/ && prettier --write source/ && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lyndros/tsRestAPIServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lyndros/tsRestAPIServer/issues"
+  },
+  "homepage": "https://github.com/Lyndros/tsRestAPIServer#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
