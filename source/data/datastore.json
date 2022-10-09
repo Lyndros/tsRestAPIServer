@@ -1,0 +1,38 @@
+[
+   {
+     "id": 1,
+     "name": "Victor",
+     "surname": "Padapapoulous",
+     "email": "victorpadapa@example.com",
+     "password": "1234",
+     "lastLogin": "",
+     "active": true
+   },
+   {
+     "id": 2,
+     "name": "Javier",
+     "surname": "Tarradellas",
+     "email": "javitarradellas@example.com",
+     "password": "1234",
+     "lastLogin": "",
+     "active": true
+   },
+   {
+     "id": 3,
+     "name": "Anton",
+     "surname": "Renegado",
+     "email": "antonrenegado@example.com",
+     "password": "1234",
+     "lastLogin": "",
+     "active": false
+   },
+   {
+     "id": 4,
+     "name": "Johan",
+     "surname": "Jochum",
+     "email": "johanjochum@example.com",
+     "password": "1234",
+     "lastLogin": "",
+     "active": true
+   }
+]
